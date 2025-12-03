@@ -1,6 +1,6 @@
 # Flood-Response AI Pipeline — README.md
 
-```markdown
+
 # Flood-Response AI Pipeline
 
 End-to-end demo pipeline that produces **safe, grounded** responses to disaster/relief style queries.  
