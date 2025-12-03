@@ -1,5 +1,3 @@
-# Flood-Response AI Pipeline — README.md
-
 
 # Flood-Response AI Pipeline
 
