@@ -52,12 +52,11 @@ The pipeline ensures:
 ```
 
 .
-├── search_retrieval.py        # Module B – KB, BFS, A*, TF-IDF, retrieve_with_bn()
-├── planning_module.py         # Module C – GraphPlan + POP planner
-├── rl_policy.py               # Module D – Q-learning + RL decision logic
-├── module5_llm.py             # Module E – LLM prompt builder and final generator
-├── bayesian_intent.py         # Module A – feature extraction + Bayesian posterior
-├── AI_project(theory).pdf     # Official KB source (optional; referenced as provenance)
+├── module2.py        # Module B – KB, BFS, A*, TF-IDF, retrieve_with_bn()
+├── module3.py         # Module C – GraphPlan + POP planner
+├── module4.py               # Module D – Q-learning + RL decision logic
+├── module5.py             # Module E – LLM prompt builder and final generator
+├── module1.py         # Module A – feature extraction + Bayesian posterior
 ├── demo_plans.json            # Output from demo runs (optional)
 └── README.md                  # (this file)
 
